@@ -16,6 +16,11 @@ sswp-asdc-api-access\jupyter\ASDC_API_support.py
 sswp-asdc-api-access\jupyter\ASDC_API_ColourPicker_Workflow.ipynb
 ```
 
+ - Sample images for expermimental ColourPicker runs against a swatch collaged from Orange Hawkweed pixel clippings
+ ```
+ sswp-asdc-api-access\images
+ ```
+
 ---------------------------------------------------------
 
 ## SSWP / ASDC application API services
